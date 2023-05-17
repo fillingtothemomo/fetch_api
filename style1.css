@@ -1,0 +1,32 @@
+table{
+    width:100%;
+}
+th{
+padding:5%;
+border:1px solid black;
+background-color: burlywood;
+}
+tr{
+    padding: 6%;
+}
+#avatar{
+    border:1px solid black;
+    background-color: beige;
+   text-align: center;
+}
+
+#email{
+    border:1px solid black;
+    background-color: beige;
+    text-align: center;
+}
+#firstname{
+    border:1px solid black;
+    background-color: beige;
+    text-align: center;
+}
+#lastname{
+    border:1px solid black;
+    background-color: beige;
+    text-align: center;
+}
